@@ -1,0 +1,14 @@
+button {
+    text-align: center;
+    font-size: 30px;
+    width: 80px;
+    border-radius: 10rem;
+    margin: 5px 10px;
+    background-color:transparent;
+    cursor: pointer;
+    transition:box-shadow 0.3s ease;
+
+}
+button:hover{
+    box-shadow: 0 0.2rem 0.4rem red;
+}
